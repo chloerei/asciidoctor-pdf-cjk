@@ -35,4 +35,4 @@ Render PDF:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/asciidoctor-pdf-cjk.
+Bug reports and pull requests are welcome on GitHub at https://github.com/chloerei/asciidoctor-pdf-cjk.
