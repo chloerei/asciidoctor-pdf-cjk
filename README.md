@@ -29,7 +29,7 @@ Render PDF:
 
 ## Themes
 
-- [Asciidoctor::Pdf::CJK::KaiGenGothicCn](https://github.com/chloerei/asciidoctor-pdf-cjk-kai_gen_gothic)
+- [Asciidoctor::Pdf::CJK::KaiGenGothic](https://github.com/chloerei/asciidoctor-pdf-cjk-kai_gen_gothic)
 
   A theme using font [KaiGen Gothic](https://github.com/akiratw/kaigen-gothic).
 
