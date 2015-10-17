@@ -10,7 +10,7 @@ Current do this things:
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'asciidoctor-pdf-cjk', '~> 0.1.1'
+gem 'asciidoctor-pdf-cjk', '~> 0.1.2'
 ```
 
 And then execute:
