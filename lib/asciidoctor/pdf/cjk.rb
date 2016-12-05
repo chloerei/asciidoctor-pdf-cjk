@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require "asciidoctor-pdf"
 require "asciidoctor/pdf/cjk/version"
 require "asciidoctor/pdf/cjk/converter"
